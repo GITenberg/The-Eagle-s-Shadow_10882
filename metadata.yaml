@@ -1,0 +1,29 @@
+_repo: The-Eagle-s-Shadow_10882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
+description: Cover -- Contents.
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Middle Ages -- Fiction'
+- GITenberg
+title: The Eagle's Shadow
+url: http://www.gutenberg.org/ebooks/10882
